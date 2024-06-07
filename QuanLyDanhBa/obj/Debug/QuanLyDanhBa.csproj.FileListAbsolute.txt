@@ -1,0 +1,85 @@
+C:\Users\DELL\source\repos\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+C:\Users\DELL\source\repos\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+C:\Users\DELL\source\repos\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+C:\Users\DELL\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Form1.resources
+C:\Users\DELL\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Properties.Resources.resources
+C:\Users\DELL\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+C:\Users\DELL\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb
+<<<<<<< HEAD
+D:\NET 1\.Net\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+D:\NET 1\.Net\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+D:\NET 1\.Net\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+D:\NET 1\.Net\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.AssemblyReference.cache
+D:\NET 1\.Net\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Form1.resources
+D:\NET 1\.Net\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Properties.Resources.resources
+D:\NET 1\.Net\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.GenerateResource.cache
+D:\NET 1\.Net\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+D:\NET 1\.Net\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+D:\NET 1\.Net\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb
+=======
+C:\Users\DELL\OneDrive\Documents\Ky_II_2023-2024\Lập trình .NET 1\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\Ky_II_2023-2024\Lập trình .NET 1\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Form1.resources
+C:\Users\DELL\OneDrive\Documents\Ky_II_2023-2024\Lập trình .NET 1\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Documents\Ky_II_2023-2024\Lập trình .NET 1\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Documents\Ky_II_2023-2024\Lập trình .NET 1\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\Ky_II_2023-2024\Lập trình .NET 1\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+C:\Users\DELL\OneDrive\Documents\Ky_II_2023-2024\Lập trình .NET 1\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb
+C:\Users\DELL\OneDrive\Documents\Ky_II_2023-2024\Lập trình .NET 1\source\repos\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+C:\Users\DELL\OneDrive\Documents\Ky_II_2023-2024\Lập trình .NET 1\source\repos\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+C:\Users\DELL\OneDrive\Documents\Ky_II_2023-2024\Lập trình .NET 1\source\repos\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\.Net\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\.Net\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\.Net\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\.Net\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.AssemblyReference.cache
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\.Net\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Form1.resources
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\.Net\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Properties.Resources.resources
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\.Net\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.GenerateResource.cache
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\.Net\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\.Net\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\.Net\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb
+>>>>>>> 6ed8c836e15f4be4320840fd4c1f286c700e87e6
+>>>>>>> 2a473114dce954818bf0fd276f228c2fc9d4dd77
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\new\.NET\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\new\.NET\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\new\.NET\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\new\.NET\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.AssemblyReference.cache
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\new\.NET\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Form1.resources
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\new\.NET\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Properties.Resources.resources
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\new\.NET\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.GenerateResource.cache
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\new\.NET\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\new\.NET\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+D:\DCCTCLC66A1\Nam3_Ky2\7080108-Lập trình .NET 1 + BTL\BT\new\.NET\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb
+D:\.NET\BTL\.NET\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+D:\.NET\BTL\.NET\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+D:\.NET\BTL\.NET\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+D:\.NET\BTL\.NET\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.AssemblyReference.cache
+D:\.NET\BTL\.NET\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Form1.resources
+D:\.NET\BTL\.NET\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Properties.Resources.resources
+D:\.NET\BTL\.NET\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.GenerateResource.cache
+D:\.NET\BTL\.NET\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+D:\.NET\BTL\.NET\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+D:\.NET\BTL\.NET\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb
+>>>>>>> 9a04382346e8382ad28a8806b29206c0464ca96d
+D:\NET 1\BTL\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+D:\NET 1\BTL\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+D:\NET 1\BTL\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+D:\NET 1\BTL\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.AssemblyReference.cache
+D:\NET 1\BTL\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Form1.resources
+D:\NET 1\BTL\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Properties.Resources.resources
+D:\NET 1\BTL\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.GenerateResource.cache
+D:\NET 1\BTL\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+D:\NET 1\BTL\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+D:\NET 1\BTL\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb
+D:\NET 1\BTL_1\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+D:\NET 1\BTL_1\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+D:\NET 1\BTL_1\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+D:\NET 1\BTL_1\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.AssemblyReference.cache
+D:\NET 1\BTL_1\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Form1.resources
+D:\NET 1\BTL_1\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Properties.Resources.resources
+D:\NET 1\BTL_1\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.GenerateResource.cache
+D:\NET 1\BTL_1\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+D:\NET 1\BTL_1\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+D:\NET 1\BTL_1\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb
